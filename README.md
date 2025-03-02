@@ -37,6 +37,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu15082004&theme=radical" />
 </p>
 
----
+---✅ Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Priyanshu15082004&theme=radical)
+
 
 ⭐ **Feel free to connect & collaborate!** 🚀
