@@ -1,0 +1,41 @@
+<h1 align="center">Hi There! 👋🏻 I'm Priyanshu Chauhan</h1>
+<h3 align="center">💻 Data Analyst | SQL | Power BI | Python </h3>
+
+---
+
+### 🌟 LET ME INTRODUCE MYSELF 🌟  
+- 🧑‍💻 I love working with **SQL, Python, and Power BI**.  
+- 📊 I analyze **E-commerce, Uber, and Sales Data** to generate insights.  
+- 📌 I enjoy learning **Git, Machine Learning, and Data Science**.  
+- 🚀 Currently exploring **Cloud & Big Data Technologies**.  
+- 🎯 Passionate about **Data Visualization & Automation**.  
+
+---
+
+### 🔥 TECH STACK  
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi&logoColor=gold" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=green" />
+</p>
+
+---
+
+### 📫 FIND ME ON  
+🔗 **LinkedIn** – [Your Profile](https://www.linkedin.com/in/priyanshu-chauhan-9b036b24b/)  
+🔗 **GitHub** – [Your GitHub](  https://github.com/Priyanshu15082004)  
+
+---
+
+### 📊 GITHUB STATS  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+</p>
+
+---
+
+⭐ **Feel free to connect & collaborate!** 🚀
