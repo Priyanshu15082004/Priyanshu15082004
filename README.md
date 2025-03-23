@@ -56,8 +56,8 @@
 
 ⭐ **Feel free to connect & collaborate!** 🚀
 
-## 💖 Thought for the Loving Coder  
-
+## 💖 A Thought for the Passionate Coder  
+ 
 *"Code is like love, it has to be written with passion and understood with patience."* 💡💻  
 
 Keep coding, keep creating, and never stop learning. Your love for code makes the world a better place! 🚀✨  
