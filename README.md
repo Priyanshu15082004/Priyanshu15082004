@@ -8,7 +8,9 @@
 - 📊 I analyze **E-commerce, Uber, and Sales Data** to generate insights.  
 - 📌 I enjoy learning **Git, Machine Learning, and Data Science**.  
 - 🚀 Currently exploring **Cloud & Big Data Technologies**.  
-- 🎯 Passionate about **Data Visualization & Automation**.  
+- 🎯 Passionate about **Data Visualization & Automation**.
+- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="max-width: 100%; display: inline-block;">
+
 
 ---
 
