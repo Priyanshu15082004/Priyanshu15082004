@@ -5,7 +5,7 @@
 
 ### 🌟 LET ME INTRODUCE MYSELF 🌟  
 - 🧑‍💻 I love working with **SQL, Python, and Power BI**.  
-- 📊 I analyze **E-commerce, Uber, and Sales Data** to generate insights.  
+- 📊 I analyze **E-commerce, Uber and Pizza Sales Data** to generate insights.  
 - 📌 I enjoy learning **Git, Machine Learning, and Data Science**.  
 - 🚀 Currently exploring **Cloud & Big Data Technologies**.  
 - 🎯 Passionate about **Data Visualization & Automation**.
@@ -55,3 +55,9 @@
 
 
 ⭐ **Feel free to connect & collaborate!** 🚀
+
+## 💖 Thought for the Loving Coder  
+
+*"Code is like love, it has to be written with passion and understood with patience."* 💡💻  
+
+Keep coding, keep creating, and never stop learning. Your love for code makes the world a better place! 🚀✨  
