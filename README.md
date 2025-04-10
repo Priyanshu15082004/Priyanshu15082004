@@ -1,19 +1,18 @@
 <h1 align="center">Hi There! 👋🏻 I'm Priyanshu Chauhan</h1>
-<h3 align="center">💻 Data Analyst | SQL | Power BI | Python </h3>
+<h3 align="center">💻 Data Analyst | SQL | Power BI | Python | Machine Learning Enthusiast</h3>
 
 ---
 
 ### 🌟 LET ME INTRODUCE MYSELF 🌟  
-- 🧑‍💻 I love working with **SQL, Python, and Power BI**.  
-- 📊 I analyze **E-commerce, Uber and Pizza Sales Data** to generate insights.  
-- 📌 I enjoy learning **Git, Machine Learning, and Data Science**.  
-- 🚀 Currently exploring **Cloud & Big Data Technologies**.  
-- 🎯 Passionate about **Data Visualization & Automation**.
+- 🧑‍💻 I love working with **SQL, Python, Power BI**, and **Machine Learning**.
+- 📊 I analyze **E-commerce, Uber, and Pizza Sales Data** to generate insights.
+- 📌 I enjoy learning and applying **Machine Learning**, **Deep Learning**, and **Data Science**.
+- 🚀 Currently exploring **Cloud & Big Data Technologies**.
+- 🎯 Passionate about **Data Visualization, Automation**, and **Model Deployment**.
+
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px">
 </p>
-
-
 
 ---
 
@@ -31,8 +30,11 @@
   <img src="https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=green" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alt-5B7F97?style=for-the-badge&logo=alt&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-4C4C44?style=for-the-badge&logo=nltk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cosine_Similarity-28A745?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pickle-000?style=for-the-badge&logo=python&logoColor=yellow" />
 </p>
-
 
 ---
 
